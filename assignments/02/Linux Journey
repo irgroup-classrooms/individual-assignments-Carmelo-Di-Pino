@@ -1,0 +1,56 @@
+What should be outputted to the display when you type echo Hello World?  
+*Hello World*  
+
+How do I find what directory you are currently in?  
+*pwd*  
+
+If you are in /home/pete/Pictures and wanted to go to /home/pete, what’s a good shortcut to use?  
+*cd ..*  
+
+What command would you use to see hidden files?  
+ls -a  
+
+How do you create a file called myfile?  
+touch myfile  
+
+What command can you use to find the file type of a file?  
+file  
+
+What's a good way to see the contents of a file?  
+cat  
+
+How do you quit out of a less command?  
+q  
+
+What is the command to clear the terminal?  
+clear  
+
+What flag do you need to specify to copy over a directory?  
+-r  
+
+How do you rename a file called cat to dog?  
+mv cat dog  
+
+What command is use to make a directory?  
+mkdir  
+
+How do you remove a file called myfile?  
+rm myfile  
+
+What option should I specify for find if I want to search by name?  
+-name  
+
+How do you get quick command line help for built-in bash commands?  
+help  
+
+How do you see the manuals for a command?  
+man  
+
+What command can you use to see a small description of a command?  
+whatis  
+
+What command is used to make an alias?  
+alias  
+
+How can you exit from the shell?  
+exit  
