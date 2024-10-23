@@ -1,3 +1,4 @@
+```
 pwd
 touch notes.txt
 cd ..
@@ -81,3 +82,4 @@ ls -F
 history
 history -n 100
 history > history.txt
+```
